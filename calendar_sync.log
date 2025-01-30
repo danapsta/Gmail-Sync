@@ -1,0 +1,180 @@
+2025-01-29 19:52:15,832 - INFO - Configuration loaded successfully
+2025-01-29 19:52:15,832 - INFO - Starting Calendar Sync application
+2025-01-29 19:52:31,253 - INFO - Starting calendar sync
+2025-01-29 19:52:31,254 - INFO - Google authentication successful
+2025-01-29 19:52:31,256 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-01-29 19:52:36,418 - INFO - Starting O365 authentication
+2025-01-29 19:53:14,431 - INFO - O365 authentication successful
+2025-01-29 19:53:29,286 - ERROR - Error retrieving O365 events: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:29,332 - ERROR - Failed to sync event Mac: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:29,374 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:29,416 - ERROR - Failed to sync event Personal Capital Transaction Categorization: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:29,464 - ERROR - Failed to sync event Basketball camp mac : 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:29,507 - ERROR - Failed to sync event Mac: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:29,559 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:29,603 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:29,642 - ERROR - Failed to sync event Paige - Sub (Kara): 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:29,690 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:29,737 - ERROR - Failed to sync event Paige cookie class: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:29,779 - ERROR - Failed to sync event Paige - Cookie Class: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:29,827 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:29,876 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:29,920 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:29,965 - ERROR - Failed to sync event Little saints book club: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:30,010 - ERROR - Failed to sync event Mac: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:30,465 - ERROR - Failed to sync event No School (Unknown): 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:30,509 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:30,557 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:30,603 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:30,649 - ERROR - Failed to sync event Amazon Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:30,694 - ERROR - Failed to sync event Mortgate Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:30,736 - ERROR - Failed to sync event Amazon Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:30,783 - ERROR - Failed to sync event CapitalOne Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:30,829 - ERROR - Failed to sync event Mac: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:30,877 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:30,919 - ERROR - Failed to sync event VA mental health appt: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:30,959 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:30,998 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,043 - ERROR - Failed to sync event Personal Capital Transaction Categorization: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,085 - ERROR - Failed to sync event Kids consignment Paducah - work go in early to shop 1/2 off: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,127 - ERROR - Failed to sync event Mac: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,176 - ERROR - Failed to sync event No School (Unknown): 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,220 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,270 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,311 - ERROR - Failed to sync event Colten Krelo's birthday: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,351 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,392 - ERROR - Failed to sync event Mom's birthday: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,427 - ERROR - Failed to sync event Friday!!: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,467 - ERROR - Failed to sync event Mortgate Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,511 - ERROR - Failed to sync event Amazon Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,561 - ERROR - Failed to sync event Paige - Sub: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,601 - ERROR - Failed to sync event CapitalOne Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,643 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,684 - ERROR - Failed to sync event Mac's Birthday (Marley's Day): 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,724 - ERROR - Failed to sync event Mac: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,763 - ERROR - Failed to sync event Personal Capital Transaction Categorization: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,801 - ERROR - Failed to sync event Anniversary: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,846 - ERROR - Failed to sync event Anniversary!: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,897 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:31,956 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,024 - ERROR - Failed to sync event  Early Dismissal 2PM: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,093 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,146 - ERROR - Failed to sync event `: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,195 - ERROR - Failed to sync event Our Holiday: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,243 - ERROR - Failed to sync event Mortgate Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,289 - ERROR - Failed to sync event Amazon Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,326 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,368 - ERROR - Failed to sync event CapitalOne Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,408 - ERROR - Failed to sync event Mac Dentist Appt: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,452 - ERROR - Failed to sync event Mac dentist whetherall: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,498 - ERROR - Failed to sync event Paige / Theo Dentist Appt: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,550 - ERROR - Failed to sync event Me & Theo dentist : 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,609 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,667 - ERROR - Failed to sync event Personal Capital Transaction Categorization: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,742 - ERROR - Failed to sync event Mac: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,815 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,887 - ERROR - Failed to sync event VGS Art Show: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:32,949 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,022 - ERROR - Failed to sync event Florida Trip: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,141 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,246 - ERROR - Failed to sync event Mortgate Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,340 - ERROR - Failed to sync event Amazon Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,388 - ERROR - Failed to sync event CapitalOne Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,439 - ERROR - Failed to sync event Mac - Lincoln's Birthday: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,488 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,529 - ERROR - Failed to sync event Personal Capital Transaction Categorization: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,569 - ERROR - Failed to sync event Paige's Birthday!: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,611 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,651 - ERROR - Failed to sync event Mac: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,693 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,735 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,778 - ERROR - Failed to sync event Pictures Broadway: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,821 - ERROR - Failed to sync event Pictures on Broadway: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,867 - ERROR - Failed to sync event Mortgate Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,909 - ERROR - Failed to sync event Amazon Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:33,960 - ERROR - Failed to sync event CapitalOne Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:34,005 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:34,050 - ERROR - Failed to sync event Personal Capital Transaction Categorization: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:34,096 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:34,136 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:34,183 - ERROR - Failed to sync event Mac: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:34,225 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:34,267 - ERROR - Failed to sync event Mortgate Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:34,310 - ERROR - Failed to sync event Amazon Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:34,350 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:34,400 - ERROR - Failed to sync event CapitalOne Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:34,444 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:34,485 - ERROR - Failed to sync event Personal Capital Transaction Categorization: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:34,528 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 19:53:34,531 - INFO - Sync completed successfully
+2025-01-29 20:02:34,430 - INFO - Configuration loaded successfully
+2025-01-29 20:02:34,430 - INFO - Starting Calendar Sync application
+2025-01-29 20:02:47,385 - INFO - Starting calendar sync
+2025-01-29 20:02:47,386 - INFO - Google authentication successful
+2025-01-29 20:02:47,387 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-01-29 20:02:52,511 - INFO - Starting O365 authentication
+2025-01-29 20:03:20,872 - ERROR - Selenium WebDriver error: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=132.0.6834.111); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+0   chromedriver                        0x0000000100dff2a8 chromedriver + 5538472
+1   chromedriver                        0x0000000100df71ea chromedriver + 5505514
+2   chromedriver                        0x00000001009186c0 chromedriver + 399040
+3   chromedriver                        0x000000010091e897 chromedriver + 424087
+4   chromedriver                        0x000000010092129e chromedriver + 434846
+5   chromedriver                        0x00000001009ad538 chromedriver + 1008952
+6   chromedriver                        0x000000010098d582 chromedriver + 877954
+7   chromedriver                        0x00000001009ac497 chromedriver + 1004695
+8   chromedriver                        0x000000010098d323 chromedriver + 877347
+9   chromedriver                        0x000000010095a1f0 chromedriver + 668144
+10  chromedriver                        0x000000010095b46e chromedriver + 672878
+11  chromedriver                        0x0000000100dc44a0 chromedriver + 5297312
+12  chromedriver                        0x0000000100dc84c0 chromedriver + 5313728
+13  chromedriver                        0x0000000100da61b7 chromedriver + 5173687
+14  chromedriver                        0x0000000100dc8e5e chromedriver + 5316190
+15  chromedriver                        0x0000000100d95b94 chromedriver + 5106580
+16  chromedriver                        0x0000000100de5778 chromedriver + 5433208
+17  chromedriver                        0x0000000100de5936 chromedriver + 5433654
+18  chromedriver                        0x0000000100df6dc8 chromedriver + 5504456
+19  libsystem_pthread.dylib             0x00007ff81bbdb253 _pthread_start + 99
+20  libsystem_pthread.dylib             0x00007ff81bbd6bef thread_start + 15
+
+2025-01-29 20:03:48,939 - ERROR - O365 authentication failed
+2025-01-29 20:03:56,740 - INFO - Credentials saved successfully
+2025-01-29 20:03:58,755 - INFO - Starting calendar sync
+2025-01-29 20:03:58,757 - INFO - Google authentication successful
+2025-01-29 20:03:58,758 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-01-29 20:04:03,975 - INFO - Starting O365 authentication
+2025-01-29 20:04:41,813 - INFO - O365 authentication successful
+2025-01-29 20:04:56,301 - ERROR - Error retrieving O365 events: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events?%24select=id%2Csubject%2Cstart%2Cend%2Cbody%2Clocation&%24filter=start%2FdateTime+ge+%272025-01-30T02%3A04%3A56.124550Z%27+and+start%2FdateTime+le+%272025-03-01T02%3A04%3A56.124550Z%27
+2025-01-29 20:04:56,328 - ERROR - Failed to sync event Mac: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,353 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,377 - ERROR - Failed to sync event Personal Capital Transaction Categorization: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,402 - ERROR - Failed to sync event Basketball camp mac : 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,428 - ERROR - Failed to sync event Mac: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,617 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,646 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,674 - ERROR - Failed to sync event Paige - Sub (Kara): 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,702 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,731 - ERROR - Failed to sync event Paige cookie class: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,759 - ERROR - Failed to sync event Paige - Cookie Class: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,787 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,821 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,854 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,888 - ERROR - Failed to sync event Little saints book club: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,919 - ERROR - Failed to sync event Mac: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,950 - ERROR - Failed to sync event No School (Unknown): 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:56,982 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:57,021 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:57,053 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:57,086 - ERROR - Failed to sync event Amazon Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:57,115 - ERROR - Failed to sync event Mortgate Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:57,149 - ERROR - Failed to sync event Amazon Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:57,179 - ERROR - Failed to sync event CapitalOne Due Date: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:57,213 - ERROR - Failed to sync event Mac: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:57,246 - ERROR - Failed to sync event Team Meeting: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:57,277 - ERROR - Failed to sync event VA mental health appt: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:57,313 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:57,347 - ERROR - Failed to sync event Noah: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:57,377 - ERROR - Failed to sync event Personal Capital Transaction Categorization: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:57,406 - ERROR - Failed to sync event Kids consignment Paducah - work go in early to shop 1/2 off: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/events
+2025-01-29 20:04:57,408 - INFO - Sync completed successfully

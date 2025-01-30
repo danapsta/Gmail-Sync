@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+env/
+.env/
+
+# Credentials and Config
+credentials/
+*.pickle
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Chrome WebDriver
+chromedriver*
+
+# System Files
+.DS_Store
+Thumbs.db
